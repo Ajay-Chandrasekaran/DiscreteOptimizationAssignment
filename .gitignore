@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Assignment Resource Files
+_coursera
+*.pdf
+submit.py
