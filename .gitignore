@@ -133,3 +133,6 @@ _coursera
 *.pdf
 submit.py
 */data/
+.vscode/launch.json
+*.java
+*java*
