@@ -136,3 +136,4 @@ submit.py
 .vscode/launch.json
 *.java
 *java*
+*results/
